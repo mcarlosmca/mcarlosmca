@@ -12,7 +12,7 @@
 - ▶️ I regulary post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 -->
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 I’m currently learning about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mcarlosmca@gmail.com**
 
