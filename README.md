@@ -15,7 +15,7 @@
 - 💬 I’m currently learning about **JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mcarlosmca@gmail.com**
-
+<!--
 - ⚡ Fun fact **Oneye 😜**
 
 <p align="left">
@@ -38,7 +38,7 @@
 <a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
-<!--
+
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
